@@ -1,4 +1,4 @@
-## Hello evernyan~ ^w^ 😺
+## Hello everyNyan~ ^w^ 😺
 
 a Weeb guy called himself a programmer :3
 
