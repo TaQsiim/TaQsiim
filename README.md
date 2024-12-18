@@ -18,8 +18,8 @@ Hello everyNyan~ ^w^<br><br>I'm just a GUY 🐱 ^_^<br><br>a cool CS student :3<
 ---
 [![](https://visitcount.itsvg.in/api?id=taqsiim&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdallah kassem) 
+  <!-- ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdallah kassem)  -->
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
